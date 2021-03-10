@@ -5,6 +5,6 @@
 replicaCount: 1
 
 image:
-  repository: theryanbaker/ryantest
+  repository: theryanbaker/rabbitmq-scaling-demo
   tag: latest
   pullPolicy: IfNotPresent
